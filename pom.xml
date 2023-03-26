@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <name>WAR Web Project</name>
   
-  <!-- Demo on Github Webhooks-->
+  <!-- Demo on Github Webhook-->
   
   <description>A very simple Maven-enabled WAR web project</description>
   <dependencies>
